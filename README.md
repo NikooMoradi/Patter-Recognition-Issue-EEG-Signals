@@ -18,7 +18,7 @@ The primary objective of this project is to investigate how feature extraction a
 - `CI_Project.pdf`: The project presentation detailing the problem statement, methodology, and results.
 - `Report.pdf`: The comprehensive report on the project, including detailed explanations of the methods and results.
 - `project_best.ipynb`: The Jupyter notebook containing the code for feature extraction, selection, and neural network training.
-- `REesults`: The folder containing predictions of my models on the test data.
+- `Results`: The folder containing predicted labes of my models on the test data and the extrecated features using different methods.
 
 ## Authors
 - **Nikoo Moradi**
